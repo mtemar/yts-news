@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome-to-yts-news",
+    "title": "Welcome to YTS News",
+    "category": "Community",
+    "date": "2026-11-21",
+    "author": "YTS News Editorial",
+    "summary": "Introducing a digital newsroom for Vanuatu, built to make public-interest reporting easier to find and read.",
+    "body": [
+      "Welcome to YTS News, a new digital publishing home for stories from across Vanuatu.",
+      "Our mission is to provide accessible reporting on government, Parliament, community affairs, business and other matters of public interest.",
+      "We aim to verify factual claims, identify sources clearly, correct errors promptly and seek responses from people who are the subject of serious allegations.",
+      "This is an introductory announcement for the platform. It is not a report about a current event."
+    ]
+  }
+]
